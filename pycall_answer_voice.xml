@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say voice="alice">Tristan has requested a call with you.  He will be joining shortly.  Thank you.</Say>
+  <Dial record="true"><Conference>Full Stack Python</Conference></Dial>
+</Response>
